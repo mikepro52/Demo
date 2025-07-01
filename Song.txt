@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Yellow submarine
 Yellow Submarine
 our friens we are not alone
@@ -8,3 +9,5 @@ lalala
 
 give me one of us
 
+=======
+>>>>>>> parent of 491dd2e (our friends)
