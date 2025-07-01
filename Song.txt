@@ -1,10 +1,10 @@
 Yellow submarine
 Yellow Submarine
 our friens we are not alone
-<<<<<<< HEAD
+
 give me one of us
 lalala
 lalala
-=======
+
 give me one of us
->>>>>>> fd5fcd3794be7f8949cc21c64ee4bbf86cc1243f
+
